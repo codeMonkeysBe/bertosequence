@@ -1,0 +1,28 @@
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.step-sequencer {
+    display: flex;
+}
+
+.step-sequencer button {
+    margin: 5px;
+    display: flex;
+    height: 60px;
+    width: 45px;
+    justify-content: center;
+    align-items: center;
+}
+
+.step-sequencer button .light {
+    margin-top: 20px;
+    width: 10px;
+    height: 10px;
+    background-color: gray;
+}
+
+.step-sequencer button .active {
+    background-color: red;
+}
