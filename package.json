@@ -1,0 +1,22 @@
+{
+  "name": "bertosequence",
+  "version": "1.0.0",
+  "description": "",
+  "main": "looper.js",
+  "scripts": {
+    "start": "http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codeMonkeysBe/bertosequence.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codeMonkeysBe/bertosequence/issues"
+  },
+  "homepage": "https://github.com/codeMonkeysBe/bertosequence#readme",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
